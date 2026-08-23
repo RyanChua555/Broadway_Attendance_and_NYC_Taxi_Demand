@@ -1,0 +1,60 @@
+Theater_ID,Theater,Address,Current Location Name,longitude,latitude
+1,46th Street Theatre ,226 West 46th Street,Richard Rodgers Theatre,-73.986081281289,40.758944612776
+2,46th Street Theatre ,302 West 45th Street,,-73.988598280642,40.759185685857
+2,Alvin Theatre,250 West 52nd Street,Neil Simon Theatre,-73.984259239315,40.763082483704
+3,Ambassador Theatre,219 West 49th Street,,-73.984852834724,40.761005422162
+4,ANITA Playhouse,245 West 52nd Street,August Wilson Theatre,-73.984051983694,40.763126582794
+5,ANTA Playhouse,245 West 52nd Street,August Wilson Theatre,-73.984051983694,40.763126582794
+6,August Wilson Theatre,245 West 52nd Street,,-73.984051983694,40.763126582794
+7,Belasco Theatre,111 West 44th Street,,-73.983453414589,40.7563268384
+8,Bernard B. Jacobs Theatre,242 West 45th Street,,-73.987222457075,40.758604078333
+9,Billy Rose Theatre,208 West 41st Street,Nederlander Theatre,-73.987769133446,40.755445831992
+10,Booth Theatre,222 West 45th Street,,-73.986815493755,40.758431691685
+11,Broadhurst Theatre,235 West 44th Street,,-73.987728182364,40.758128976059
+12,Broadway Theatre,1681 Broadway,,-73.983031341679,40.763155153938
+13,Brooks Atkinson Theatre,256 West 47th Street,,-73.986119206452,40.759768123531
+14,Brooks Atkinson Theatre,256 West 47th Street,Lena Horne Theatre,-73.986119206452,40.759768123531
+15,Circle in the Square Theatre,235 West 50th Street,,-73.984663639571,40.761747669199
+16,Cort Theatre,138 West 48th Street,,-73.982490502773,40.759063092783
+17,Cort Theatre,138 W 48th Street,James Earl Jones Theatre,-73.982490502773,40.759063092783
+18,Cort Theatre,138 W 48th Street,James Earl Jones Theatre,-73.982490502773,40.759063092783
+19,Ethel Barrymore Theatre,243 West 47th Street,,-73.986072449827,40.759879601259
+20,Eugene O'Neill Theatre,230 West 49th Street,,-73.985108847608,40.760982027649
+21,Gerald Schoenfeld Theatre,236 West 45th Street,,-73.987100368079,40.758552362338
+22,Gershwin Theatre,222 West 51st Street,,-73.984155953153,40.762220103751
+23,Helen Hayes Theatre,240 West 44th Street,,-73.987566193417,40.757929066166
+24,Henry Miller's Theatre,124 West 43rd Street,Stephen Sondheim Theatre,-73.984315327077,40.755743878173
+25,Hudson Theatre,141 West 44th Street,,-73.984225676473,40.756651450251
+26,Imperial Theatre,249 West 45th Street,,-73.987499104945,40.758852557192
+27,James Earl Jones Theatre,138 W 48th Street,,-73.982490502773,40.759063092783
+28,John Golden Theatre,252 West 45th Street,,-73.987425938735,40.758690271656
+29,Little Theatre,240 West 44th Street,Helen Hayes Theatre,-73.987566193417,40.757929066166
+30,Longacre Theatre,220 West 48th Street,,-73.98533508967,40.760258349759
+31,Lunt-Fontanne Theatre,205 West 46th Street,,-73.985451984473,40.758808630833
+32,Lyceum Theatre,149 West 45th Street,,-73.984067397892,40.757407653821
+33,Lyric Theatre,214 West 43rd Street,,-73.98694568997,40.756848570406
+34,Majestic Theatre,245 West 44th Street,,-73.987885984565,40.758195819902
+35,Marquis Theatre,210 West 46th Street,,-73.985677435643,40.758773030648
+36,Martin Beck Theatre ,302 West 45th Street,Al Hirschfeld Theatre,-73.988598280642,40.759185685857
+37,Martin Beck Theatre ,302 West 45th Street,Al Hirschfeld Theatre,-73.988598280642,40.759185685857
+38,Minskoff Theatre,200 West 45th Street,,-73.985654345501,40.757945299584
+39,Morosco Theatre,217 W. 45th St,(Marriot Hotel),-73.986994138213,40.758638657025
+40,Music Box Theatre,239 West 45th Street,,-73.987341302841,40.758785713389
+41,Nederlander Theatre,208 West 41st Street,,-73.987769133446,40.755445831992
+42,Neil Simon Theatre,250 West 52nd Street,,-73.984259239315,40.763082483704
+43,New Amsterdam Theatre,214 West 42nd Street,,-73.987440688828,40.756173570281
+44,Palace Theatre,1564 Broadway,,-73.985077570157,40.759150433902
+45,Plymouth Theatre,236 West 45th Street,Gerald Schoenfeld Theatre,-73.987100368079,40.758552362338
+46,Richard Rodgers Theatre,226 West 46th Street,,-73.986081281289,40.758944612776
+47,Royale Theatre,242 West 45th Street,Bernard B. Jacobs Theatre,-73.987222457075,40.758604078333
+48,Royale Theatre,242 West 45th Street,Bernard B. Jacobs Theatre,-73.987222457075,40.758604078333
+49,Samuel J. Friedman Theatre,261 West 47th Street,,-73.986489559626,40.760056130916
+50,Shubert Theatre,225 West 44th Street,,-73.987570380163,40.758062132216
+51,St. James Theatre,246 West 44th Street,,-73.987695065214,40.757983655305
+52,Stephen Sondheim Theatre,124 West 43rd Street,,-73.984315327077,40.755743878173
+53,Studio 54,254 West 54th Street,,-73.983165082697,40.764258486722
+54,Uris Theatre,222 West 51st Street,Gershwin Theatre,-73.984155953153,40.762220103751
+55,Virginia Theatre,245 West 52nd Street,August Wilson Theatre,-73.984051983694,40.763126582794
+56,Vivian Beaumont Theater,150 West 65th Street,,-73.983439959884,40.773487712942
+57,Walter Kerr Theatre,219 West 48th Street,,-73.985183566239,40.760325389721
+58,Winter Garden Theatre,1634 Broadway,,-73.983915241537,40.761498357541
