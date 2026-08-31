@@ -1,7 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rGQRVS1B)
 
-Download the necessary datasets from https://www.kaggle.com/datasets/maggieakarn/broadway-datasets before running.
-Download the taxi_zones file from the tutorials before running.
+Download the weekly grosses and NYC theaters datasets from https://www.kaggle.com/datasets/maggieakarn/broadway-datasets and put them in data\broadway_data before running.
+
+Download the taxi_zones folder from the tutorials and put it the data folderin before running.
 
 Run the ipynb notebooks in this order:
 
